@@ -21,3 +21,4 @@
 
 
 其中：yolov5/runs/train/exp为yolov5s训练出的模型，exp1文件夹为yolov5m
+yolov5m:链接: https://pan.baidu.com/s/1aWw6upA9j26mX6d1NgFz9w 提取码: 8m7o
