@@ -20,4 +20,4 @@
 
 
 
-其中：yolov5/runs/train/exp为yolov5s训练出的模型，exp4文件夹为yolov5m
+其中：yolov5/runs/train/exp为yolov5s训练出的模型，exp1文件夹为yolov5m
